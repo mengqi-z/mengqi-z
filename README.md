@@ -45,18 +45,9 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mengqi-z&show_icons=true&locale=en&layout=donut&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="mengqi-z" /></p> 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" alt="mengqi-z" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z&" alt="mengqi-z" /></p>
--->
-
-
-
 <a href="https://github.com/mengqi-z">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mengqi-z">
   <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" />
 </a>
