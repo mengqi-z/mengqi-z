@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/mengqi-z">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" />
+  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" />
 </a>
