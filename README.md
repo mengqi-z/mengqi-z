@@ -53,7 +53,10 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" alt="mengqi-z" style="width: 100%; height: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" alt="mengqi-z" style="width: 92%; height: auto;">
-</div>
+
+<a href="https://github.com/mengqi-z">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" />
+</a>
