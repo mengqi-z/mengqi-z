@@ -52,15 +52,8 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z&" alt="mengqi-z" /></p>
 -->
 
-<style>
-  @media (max-width: 600px) {
-    img {
-      width: 100%; /* Stacks the cards vertically for narrow screens */
-    }
-  }
-</style>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" alt="mengqi-z" style="max-width: 49%; height: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" alt="mengqi-z" style="max-width: 45%; height: auto;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" alt="mengqi-z" style="width: 100%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" alt="mengqi-z" style="width: 92%; height: auto;">
 </div>
