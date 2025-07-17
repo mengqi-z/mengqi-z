@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">A research scientist dedicated to solving sustainable food-energy-water resource challenges through interdisciplinary innovation.</h3>
 
 
-- 🔭 I’m currently working on [Global Change Intersectoral Modeling System](https://gcims.pnnl.gov/) and [Integrated Multisector Multiscale Modeling](https://im3.pnnl.gov/) projects.
+- ✨ I'm interested in developing and applying advanced modeling tools to analyze the interconnected dynamics of food, energy, and water systems under changing climate and socioeconomic conditions. 
+- 🔭 I’m working on the impact of data centers on water and energy systems in the context of human-Earth system modeling.
 - 🌱 I’m currently learning AI/ML and DevOps.
 
 <h3 align="left">Languages:</h3>
