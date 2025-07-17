@@ -50,5 +50,5 @@ Here are some ideas to get you started:
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mengqi-z&show_icons=true&locale=en&rank_icon=github&hide=stars" />
 </a>
 <a href="https://github.com/mengqi-z">
-  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mengqi-z" />
+  <img height=150 align="center" src="https://github-readme-streak-stats-oijsemx1z-mengqi-zs-projects.vercel.app?user=mengqi-z" />
 </a>
